@@ -41,3 +41,4 @@ Choose a mode, then enter a number from **1 to 9** and press Enter to place a ma
 - Recursive search with minimax
 - Input parsing and validation
 - Windows console color support
+![Tic-Tac-Toe gameplay](gameplay.png)
